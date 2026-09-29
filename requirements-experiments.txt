@@ -1,0 +1,15 @@
+-r requirements.txt
+
+# Local ClinicalTrials.gov index and experiment analysis
+opensearch-py>=2.4.0
+python-dateutil>=2.8.2
+sentence-transformers>=2.7.0
+biopython>=1.81
+
+# Evaluation notebooks
+ipykernel>=6.29.0
+jupyterlab>=4.0.0
+matplotlib>=3.8.0
+scipy>=1.11.0
+scikit-learn>=1.3.0
+seaborn>=0.13.0

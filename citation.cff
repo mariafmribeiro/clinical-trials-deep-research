@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it using the metadata below."
+title: "Clinical Trials Deep Research"
+type: software
+authors:
+  - family-names: Ribeiro
+    given-names: Maria
+repository-code: "https://github.com/mariafmribeiro/clinical-trials-deep-research"
+license: Apache-2.0

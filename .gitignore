@@ -1,0 +1,33 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Notebooks and generated analyses
+.ipynb_checkpoints/
+outputs/
+logs/
+
+# Large external assets
+data/clinical_trials/
+models/
+checkpoints/
+
+# Temporary and backup files
+*.log
+*.tmp
+*.bak
+*.bak-*
+*~
+.DS_Store
+Thumbs.db
