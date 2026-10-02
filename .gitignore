@@ -19,7 +19,7 @@ outputs/
 logs/
 
 # Large external assets
-data/clinical_trials/
+corpus/clinical_trials/
 models/
 checkpoints/
 

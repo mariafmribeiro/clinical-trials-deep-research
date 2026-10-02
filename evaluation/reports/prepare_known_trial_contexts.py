@@ -56,7 +56,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--selection",
         type=Path,
-        default=REPOSITORY_ROOT / "data" / "benchmark.json",
+        default=REPOSITORY_ROOT / "benchmark" / "benchmark.json",
     )
     parser.add_argument(
         "--output-dir",

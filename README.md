@@ -10,7 +10,7 @@ The system replaces web search in GPT-Researcher with a local BM25 OpenSearch in
 - `index/`: construction of the BM25 index from ClinicalTrials.gov XML records.
 - `experiments/`: local search service, pipeline runner, final model configurations, and retrieval/context experiment suites.
 - `evaluation/`: notebooks and scripts for retrieval, context, deterministic citation, diagnostic, and LLM-based report evaluation.
-- `data/`: the 51-question benchmark and derived reference key points.
+- `benchmark/`: the complete 881-review benchmark, its 51-review higher-confidence subset, derived reference key points, and construction scripts.
 
 ## Provenance
 
@@ -44,7 +44,7 @@ Never commit the populated `.env` file.
 
 ## Build the index
 
-The ClinicalTrials.gov XML snapshot is not redistributed. Point `CLINICAL_TRIALS_XML_DIR` to the extracted corpus, configure OpenSearch in `.env`, and run:
+The ClinicalTrials.gov XML snapshot is not redistributed. The experiments use the corpus released for the [TREC 2023 Clinical Trials Track](https://www.trec-cds.org/2023.html). After obtaining and extracting the collection, point `CLINICAL_TRIALS_XML_DIR` to its location, configure OpenSearch in `.env`, and run:
 
 ```bash
 python index/create_index.py

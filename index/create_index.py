@@ -8,7 +8,7 @@ from opensearchpy.helpers import bulk
 import os
 
 
-XML_FOLDER = Path(os.getenv("CLINICAL_TRIALS_XML_DIR", "data/clinical_trials"))
+XML_FOLDER = Path(os.getenv("CLINICAL_TRIALS_XML_DIR", "corpus/clinical_trials"))
 
 
 # =============================================================================

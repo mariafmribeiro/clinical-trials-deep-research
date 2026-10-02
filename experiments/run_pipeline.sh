@@ -22,7 +22,7 @@ RUN_ID="${RUN_ID:-eval_qwen3_server}"
 PROMPT_VARIANT_NAME="${PROMPT_VARIANT_NAME:-default}"
 FIELD_SET_NAME="${FIELD_SET_NAME:-aggregated}"
 
-GROUND_TRUTH_PATH="${GROUND_TRUTH_PATH:-../data/benchmark.json}"
+GROUND_TRUTH_PATH="${GROUND_TRUTH_PATH:-../benchmark/benchmark.json}"
 OUTPUT_ROOT="${OUTPUT_ROOT:-../outputs/eval_qwen3}"
 EVAL_START_INDEX="${EVAL_START_INDEX:-}"
 EVAL_END_INDEX="${EVAL_END_INDEX:-}"

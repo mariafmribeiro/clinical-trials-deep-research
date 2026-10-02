@@ -15,7 +15,7 @@ run_configuration() {
     env \
         RUN_ID="$run_id" \
         OUTPUT_ROOT="$REPOSITORY_ROOT/outputs/$run_id" \
-        GROUND_TRUTH_PATH="$REPOSITORY_ROOT/data/benchmark.json" \
+        GROUND_TRUTH_PATH="$REPOSITORY_ROOT/benchmark/benchmark.json" \
         GPT_RESEARCHER_ROOT="$REPOSITORY_ROOT" \
         MODEL_PATH="Qwen/Qwen3-8B" \
         SERVED_MODEL_NAME="qwen3-8b" \

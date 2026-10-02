@@ -23,7 +23,7 @@ LLM_ENDPOINT = os.getenv("BENCHMARK_LLM_ENDPOINT", "")
 LLM_CHANNEL_ID = os.getenv("BENCHMARK_LLM_CHANNEL_ID", "")
 
 PUBMED_QUERY = "Cochrane Database Syst Rev[Journal] AND 2020/01/01:2023/05/08[DP]"
-OUTPUT_FILE = os.getenv("BENCHMARK_OUTPUT", "data/benchmark_full.json")
+OUTPUT_FILE = os.getenv("BENCHMARK_OUTPUT", "benchmark/benchmark_extraction.json")
 MINIMUM_RCT_COUNT = 0
 
 
@@ -92,8 +92,7 @@ Return ONLY valid JSON:
 {{
   "is_exclusive_rct": boolean,
   "rct_count": integer,
-  "research_query": "",
-  "ground_truth_report": ""
+  "research_query": ""
 }}
 
 Rules:
@@ -119,18 +118,6 @@ INSTRUCTION for "research_query":
 - Write a professional research question based on the Objectives section.
 - The question should guide a Deep Research tool to generate a report about
   this exact review topic.
-
-INSTRUCTION for "ground_truth_report":
-
-- Write a concise evidence-based report based only on the Main Results and
-  Authors' Conclusions.
-- Focus on the intervention, condition, comparative findings, certainty or
-  quality of evidence, and final clinical interpretation.
-- Use neutral evidence-based language and avoid overclaiming.
-- Length: approximately 150 to 300 words.
-- Do not mention the number of trials, studies, records, reviews, or
-  participants; sample size; PubMed; Cochrane; PMID; search dates; databases;
-  abstracts; or author names.
 
 Title: {title}
 
@@ -602,7 +589,6 @@ def run_pipeline(start_from=1):
             "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
             "rct_count": rct_count,
             "research_query": analysis.get("research_query", ""),
-            "ground_truth_report": analysis.get("ground_truth_report", ""),
             "nct_ids": nct_ids,
             "doi": doi,
             "sections": sections,

@@ -16,12 +16,14 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPOSITORY_ROOT = SCRIPT_DIR.parents[1]
+sys.path.insert(0, str(REPOSITORY_ROOT / "evaluation" / "reports"))
+
 from evaluation_common import append_jsonl, completed_pmids, text_sha256, utc_now
 
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-REPOSITORY_ROOT = SCRIPT_DIR.parents[1]
-DEFAULT_DEV_PMIDS = REPOSITORY_ROOT / "data" / "benchmark.json"
+DEFAULT_DEV_PMIDS = REPOSITORY_ROOT / "benchmark" / "benchmark.json"
 REFERENCE_OUTPUT = REPOSITORY_ROOT / "outputs" / "evaluation" / "references"
 DEFAULT_OUTPUT = REFERENCE_OUTPUT / "cochrane_sections.jsonl"
 DEFAULT_ERRORS = REFERENCE_OUTPUT / "cochrane_sections_errors.jsonl"

@@ -1,0 +1,2185 @@
+[
+  {
+    "title": "Oral direct thrombin inhibitors or oral factor Xa inhibitors versus conventional anticoagulants for the treatment of pulmonary embolism.",
+    "pmid": "37057837",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37057837/",
+    "rct_count": 10,
+    "research_query": "What is the comparative efficacy and safety of oral direct thrombin inhibitors (DTIs) or oral factor Xa inhibitors versus conventional anticoagulants for the long-term treatment of pulmonary embolism (PE)?",
+    "nct_ids": [
+      "NCT00291330",
+      "NCT00439777",
+      "NCT00633893",
+      "NCT00643201",
+      "NCT00680186",
+      "NCT00986154",
+      "NCT01516814",
+      "NCT02073682",
+      "NCT02584660",
+      "NCT03045406"
+    ],
+    "doi": "10.1002/14651858.CD010957.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00291330",
+        "NCT00439777",
+        "NCT00633893",
+        "NCT00643201",
+        "NCT00680186",
+        "NCT00986154",
+        "NCT01516814",
+        "NCT02073682",
+        "NCT02584660",
+        "NCT03045406"
+      ],
+      "included_other": [],
+      "included_count": 10,
+      "excluded_nct": [
+        "NCT00252005",
+        "NCT00395772",
+        "NCT00439725",
+        "NCT00440193",
+        "NCT00839163",
+        "NCT01662908",
+        "NCT01895777",
+        "NCT02066662",
+        "NCT02234843",
+        "NCT02583191",
+        "NCT02585713",
+        "NCT02704598",
+        "NCT02746185",
+        "NCT03139487",
+        "NCT04462003"
+      ],
+      "excluded_other": [
+        "2004-002171-16",
+        "2006-004495-13"
+      ],
+      "awaiting_assessment_nct": [
+        "NCT01780987"
+      ],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02464969",
+        "NCT02664155",
+        "NCT02744092",
+        "NCT02798471",
+        "NCT03129555",
+        "NCT03266783",
+        "NCT05171049"
+      ],
+      "ongoing_other": [
+        "2014-002606-20",
+        "UMIN000020069"
+      ]
+    }
+  },
+  {
+    "title": "Treatment of dental and orthodontic complications in thalassaemia.",
+    "pmid": "36732291",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36732291/",
+    "rct_count": 1,
+    "research_query": "What is the effectiveness of photodynamic therapy as an adjuvant to full-mouth ultrasonic scaling compared to full-mouth ultrasonic scaling alone for the treatment of gingivitis in individuals with thalassaemia?",
+    "nct_ids": [
+      "NCT03311243"
+    ],
+    "doi": "10.1002/14651858.CD012969.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT03311243"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT03311243"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Early vitrectomy for exogenous endophthalmitis following surgery.",
+    "pmid": "36398614",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36398614/",
+    "rct_count": 1,
+    "research_query": "What is the effectiveness of combined pars plana vitrectomy and intravitreal antibiotics compared to intravitreal antibiotics alone in the acute management of exogenous endophthalmitis following surgery?",
+    "nct_ids": [
+      "NCT00000130"
+    ],
+    "doi": "10.1002/14651858.CD013760.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00000130"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Periodontal therapy for primary or secondary prevention of cardiovascular disease in people with periodontitis.",
+    "pmid": "36194420",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36194420/",
+    "rct_count": 2,
+    "research_query": "What are the effects of periodontal therapy, including scaling and root planing with or without antibiotics, on the primary and secondary prevention of cardiovascular disease in individuals with chronic periodontitis?",
+    "nct_ids": [
+      "NCT00066053",
+      "NCT01046435"
+    ],
+    "doi": "10.1002/14651858.CD009197.pub5",
+    "sections": {
+      "included_nct": [
+        "NCT00066053",
+        "NCT01046435"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT00093236",
+        "NCT00681564",
+        "NCT01201746",
+        "NCT02543502",
+        "NCT03960216",
+        "NCT04305171",
+        "NCT04785235",
+        "NCT04956211"
+      ],
+      "excluded_other": [
+        "ACTRN12605000593639",
+        "ACTRN12619001573145",
+        "JPRN-UMIN000042458",
+        "TCTR20200518001",
+        "UMIN000042458"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT01609725",
+        "NCT02541032",
+        "NCT04012541"
+      ],
+      "ongoing_other": [
+        "ACTRN12610000817044",
+        "CHICTR2000036462",
+        "RBR-66TR7H"
+      ]
+    }
+  },
+  {
+    "title": "Nirmatrelvir combined with ritonavir for preventing and treating COVID-19.",
+    "pmid": "36126225",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36126225/",
+    "rct_count": 1,
+    "research_query": "What is the effectiveness and safety of nirmatrelvir/ritonavir in preventing and treating COVID-19, particularly in unvaccinated individuals with mild symptomatic disease, and how does it compare to standard care or placebo?",
+    "nct_ids": [
+      "NCT04960202"
+    ],
+    "doi": "10.1002/14651858.CD015395.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT04960202"
+      ],
+      "included_other": [
+        "2021-002895-38"
+      ],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT05261139",
+        "NCT05305547"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT04381936",
+        "NCT04501978",
+        "NCT04535167",
+        "NCT04575597",
+        "NCT05011513",
+        "NCT05047601",
+        "NCT05321394",
+        "NCT05341609",
+        "NCT05386433"
+      ],
+      "ongoing_other": [
+        "2021-002857-28",
+        "2021-002894-24",
+        "CHICTR2200059390",
+        "ISRCTN30448031"
+      ],
+      "_unclassified": [
+        "NCT04501978",
+        "NCT04535167",
+        "NCT04575597"
+      ]
+    }
+  },
+  {
+    "title": "Stem cell transplantation for systemic sclerosis.",
+    "pmid": "35904231",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35904231/",
+    "rct_count": 3,
+    "research_query": "What are the benefits and harms of autologous hematopoietic stem cell transplantation (HSCT) compared to cyclophosphamide for the treatment of systemic sclerosis, specifically for non-selective myeloablative HSCT, selective myeloablative HSCT, and non-selective non-myeloablative HSCT?",
+    "nct_ids": [
+      "NCT00114530",
+      "NCT00278525",
+      "NCT01445821"
+    ],
+    "doi": "10.1002/14651858.CD011819.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00114530",
+        "NCT00278525",
+        "NCT01445821"
+      ],
+      "included_other": [],
+      "included_count": 3,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT04464434"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Certolizumab pegol for maintenance of medically induced remission in Crohn's disease.",
+    "pmid": "35771590",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35771590/",
+    "rct_count": 1,
+    "research_query": "What is the efficacy and safety of certolizumab pegol for maintaining medically induced remission in adults with Crohn's disease compared to placebo?",
+    "nct_ids": [
+      "NCT00152425"
+    ],
+    "doi": "10.1002/14651858.CD013747.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00152425"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT00152425",
+        "NCT00152490",
+        "NCT00160524",
+        "NCT00297648",
+        "NCT00308581",
+        "NCT00329550",
+        "NCT00333788",
+        "NCT00349752",
+        "NCT00356408",
+        "NCT00552344",
+        "NCT00899678",
+        "NCT01190410",
+        "NCT01696942"
+      ],
+      "excluded_other": [
+        "2005-004104-37",
+        "2006-001729-24",
+        "2006-003870-88",
+        "2006-003871-11"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Exercise versus airway clearance techniques for people with cystic fibrosis.",
+    "pmid": "35731672",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35731672/",
+    "rct_count": 4,
+    "research_query": "What is the effectiveness of exercise compared to other airway clearance techniques (ACTs) for improving respiratory function and clinical outcomes in individuals with cystic fibrosis, and what are the associated adverse effects?",
+    "nct_ids": [
+      "NCT00609050",
+      "NCT00792194",
+      "NCT03273959",
+      "NCT03295201"
+    ],
+    "doi": "10.1002/14651858.CD013285.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00609050",
+        "NCT00792194",
+        "NCT03273959",
+        "NCT03295201"
+      ],
+      "included_other": [],
+      "included_count": 4,
+      "excluded_nct": [
+        "NCT00609050",
+        "NCT00792194",
+        "NCT01509235",
+        "NCT01706445",
+        "NCT02750722",
+        "NCT03295201",
+        "NCT03375684"
+      ],
+      "excluded_other": [
+        "ACTRN12608000287336"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03273959"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Tocilizumab for giant cell arteritis.",
+    "pmid": "35560150",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35560150/",
+    "rct_count": 2,
+    "research_query": "What is the effectiveness and safety of tocilizumab, alone or with corticosteroids, compared to therapy without tocilizumab for the treatment of giant cell arteritis (GCA)?",
+    "nct_ids": [
+      "NCT01450137",
+      "NCT01791153"
+    ],
+    "doi": "10.1002/14651858.CD013484.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT01450137",
+        "NCT01791153"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT03892785"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Probiotics for the prevention of Hirschsprung-associated enterocolitis.",
+    "pmid": "35470864",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35470864/",
+    "rct_count": 2,
+    "research_query": "What is the efficacy and safety of probiotics, alone or in combination with pharmacological interventions, for the prevention of Hirschsprung-associated enterocolitis compared to placebo or other non-probiotic interventions?",
+    "nct_ids": [
+      "NCT00630838",
+      "NCT01934959"
+    ],
+    "doi": "10.1002/14651858.CD013714.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00630838",
+        "NCT01934959"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02343562"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Brivaracetam add-on therapy for drug-resistant epilepsy.",
+    "pmid": "35285519",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35285519/",
+    "rct_count": 6,
+    "research_query": "What is the efficacy and tolerability of brivaracetam as an add-on treatment for individuals with drug-resistant epilepsy, particularly in reducing seizure frequency and achieving seizure freedom?",
+    "nct_ids": [
+      "NCT00175825",
+      "NCT00175929",
+      "NCT00464269",
+      "NCT00490035",
+      "NCT00504881",
+      "NCT01261325"
+    ],
+    "doi": "10.1002/14651858.CD011501.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00175825",
+        "NCT00175929",
+        "NCT00464269",
+        "NCT00490035",
+        "NCT00504881",
+        "NCT01261325"
+      ],
+      "included_other": [],
+      "included_count": 6,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03083665"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Antibiotic therapy for chronic infection with <I>Burkholderia cepacia</I> complex in people with cystic fibrosis.",
+    "pmid": "34889457",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34889457/",
+    "rct_count": 1,
+    "research_query": "What are the effects of long-term oral and inhaled antibiotic therapy on lung function, exacerbation rates, adverse events, mortality, and quality of life in people with cystic fibrosis and chronic Burkholderia cepacia complex infection?",
+    "nct_ids": [
+      "NCT01059565"
+    ],
+    "doi": "10.1002/14651858.CD013079.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT01059565"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Chemotherapy for second-stage human African trypanosomiasis: drugs in use.",
+    "pmid": "34882307",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34882307/",
+    "rct_count": 1,
+    "research_query": "What is the efficacy and safety of fexinidazole compared to nifurtimox combined with eflornithine (NECT) for the treatment of second-stage human African trypanosomiasis (g-HAT)?",
+    "nct_ids": [
+      "NCT01685827"
+    ],
+    "doi": "10.1002/14651858.CD015374",
+    "sections": {
+      "included_nct": [
+        "NCT01685827"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT00982904",
+        "NCT01340157",
+        "NCT01483170",
+        "NCT02571062"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT01533961",
+        "NCT03087955"
+      ],
+      "ongoing_other": [],
+      "_unclassified": [
+        "NCT01533961",
+        "NCT03087955"
+      ]
+    }
+  },
+  {
+    "title": "Surgical interventions for lamellar macular holes.",
+    "pmid": "34748208",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34748208/",
+    "rct_count": 1,
+    "research_query": "What are the effects of surgical interventions, such as pars plana vitrectomy with epiretinal proliferation peeling and fovea-sparing internal limiting membrane removal, on visual and anatomical outcomes in patients with lamellar macular holes compared to observation?",
+    "nct_ids": [
+      "NCT02361645"
+    ],
+    "doi": "10.1002/14651858.CD013678.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT02361645"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Pharmacotherapy for hypertension-induced left ventricular hypertrophy.",
+    "pmid": "34628642",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34628642/",
+    "rct_count": 3,
+    "research_query": "What is the effect of antihypertensive pharmacotherapy compared to placebo or no treatment on morbidity and mortality in adults with hypertension-induced left ventricular hypertrophy?",
+    "nct_ids": [
+      "NCT00094302",
+      "NCT00417222",
+      "NCT02893358"
+    ],
+    "doi": "10.1002/14651858.CD012039.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00094302",
+        "NCT00417222",
+        "NCT02893358"
+      ],
+      "included_other": [],
+      "included_count": 3,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02893358",
+        "NCT03315832"
+      ],
+      "ongoing_other": [
+        "CHICTR-INR-16008079",
+        "CHICTR-IPR-16009507"
+      ]
+    }
+  },
+  {
+    "title": "Recombinant growth hormone therapy for X-linked hypophosphatemia in children.",
+    "pmid": "34618915",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34618915/",
+    "rct_count": 2,
+    "research_query": "Does recombinant human growth hormone therapy improve growth outcomes, mineral metabolism, and overall health in children with X-linked hypophosphatemia compared to no treatment or placebo?",
+    "nct_ids": [
+      "NCT00473187",
+      "NCT02720770"
+    ],
+    "doi": "10.1002/14651858.CD004447.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00473187",
+        "NCT02720770"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT02720770"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Anti-IgE therapy for allergic bronchopulmonary aspergillosis in people with cystic fibrosis.",
+    "pmid": "34550603",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34550603/",
+    "rct_count": 1,
+    "research_query": "What is the efficacy and safety of anti-IgE therapy (omalizumab) compared to placebo or other therapies for treating allergic bronchopulmonary aspergillosis in individuals with cystic fibrosis?",
+    "nct_ids": [
+      "NCT00787917"
+    ],
+    "doi": "10.1002/14651858.CD010288.pub5",
+    "sections": {
+      "included_nct": [
+        "NCT00787917"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Enzyme replacement therapy with galsulfase for mucopolysaccharidosis type VI.",
+    "pmid": "34533215",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34533215/",
+    "rct_count": 1,
+    "research_query": "What is the effectiveness and safety of enzyme replacement therapy with galsulfase for treating mucopolysaccharidosis type VI compared to placebo or other interventions?",
+    "nct_ids": [
+      "NCT03370653"
+    ],
+    "doi": "10.1002/14651858.CD009806.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT03370653"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT03370653"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "SARS-CoV-2-neutralising monoclonal antibodies for treatment of COVID-19.",
+    "pmid": "34473343",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34473343/",
+    "rct_count": 6,
+    "research_query": "What is the effectiveness and safety of SARS-CoV-2-neutralising monoclonal antibodies for treating patients with COVID-19 compared to an active comparator, placebo, or no intervention?",
+    "nct_ids": [
+      "NCT04381936",
+      "NCT04425629",
+      "NCT04427501",
+      "NCT04501978",
+      "NCT04602000",
+      "NCT04952805"
+    ],
+    "doi": "10.1002/14651858.CD013825.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT04381936",
+        "NCT04425629",
+        "NCT04427501",
+        "NCT04501978",
+        "NCT04602000",
+        "NCT04952805"
+      ],
+      "included_other": [],
+      "included_count": 6,
+      "excluded_nct": [
+        "NCT04275245",
+        "NCT04280705",
+        "NCT04333420",
+        "NCT04333732",
+        "NCT04341116",
+        "NCT04354428",
+        "NCT04356495",
+        "NCT04369469",
+        "NCT04370262",
+        "NCT04371367",
+        "NCT04382651",
+        "NCT04401579",
+        "NCT04415073",
+        "NCT04429529",
+        "NCT04441918",
+        "NCT04441931",
+        "NCT04452318",
+        "NCT04453384",
+        "NCT04454398",
+        "NCT04469179",
+        "NCT04479631",
+        "NCT04479644",
+        "NCT04483375",
+        "NCT04483960",
+        "NCT04492475",
+        "NCT04494724",
+        "NCT04494984",
+        "NCT04497987",
+        "NCT04498273",
+        "NCT04505774",
+        "NCT04507256",
+        "NCT04514302",
+        "NCT04516564",
+        "NCT04519437",
+        "NCT04525079",
+        "NCT04532294",
+        "NCT04533048",
+        "NCT04534725",
+        "NCT04537910",
+        "NCT04561063",
+        "NCT04561076",
+        "NCT04567810",
+        "NCT04569786",
+        "NCT04574869",
+        "NCT04586153",
+        "NCT04590430",
+        "NCT04592549",
+        "NCT04602260",
+        "NCT04603651",
+        "NCT04617535",
+        "NCT04621149",
+        "NCT04625725",
+        "NCT04625972",
+        "NCT04629703",
+        "NCT04639479",
+        "NCT04656691",
+        "NCT04691180",
+        "NCT04700163",
+        "NCT04701658",
+        "NCT04766671",
+        "NCT04852978",
+        "NCT04859517",
+        "NCT04894474",
+        "NCT04896541",
+        "NCT04932850"
+      ],
+      "excluded_other": [
+        "2020-001052-18",
+        "2020-001072-15",
+        "2020-001243-15",
+        "2020-001303-16",
+        "2020-001782-37",
+        "2020-001854-23",
+        "2020-002713-17",
+        "ACTRN12620000445976",
+        "CHICTR2000030012",
+        "CHICTR2100042150",
+        "ISRCTN13035264"
+      ],
+      "awaiting_assessment_nct": [
+        "NCT02735707",
+        "NCT04324047",
+        "NCT04324073",
+        "NCT04328012",
+        "NCT04330690",
+        "NCT04331808",
+        "NCT04341584",
+        "NCT04343144",
+        "NCT04344756",
+        "NCT04344782",
+        "NCT04345289",
+        "NCT04345991",
+        "NCT04346797",
+        "NCT04351724",
+        "NCT04355143",
+        "NCT04359095",
+        "NCT04386070",
+        "NCT04390464",
+        "NCT04393246",
+        "NCT04445467",
+        "NCT04452318",
+        "NCT04473053",
+        "NCT04488081",
+        "NCT04575064",
+        "NCT04583956",
+        "NCT04583969",
+        "NCT04590586",
+        "NCT04593940",
+        "NCT04640168",
+        "NCT04662086",
+        "NCT04703608",
+        "NCT04826588",
+        "NCT04891133"
+      ],
+      "awaiting_assessment_other": [
+        "2015-002340-14",
+        "2020-001302-30",
+        "2020-001448-24",
+        "2020-001528-32",
+        "2020-001736-95",
+        "ACTRN12620000566932",
+        "ISRCTN40580903",
+        "ISRCTN67000769",
+        "ISRCTN83971151",
+        "ISRCTN86534580",
+        "PACTR202006537901307",
+        "PACTR202007700757139"
+      ],
+      "ongoing_nct": [
+        "NCT02735707",
+        "NCT04315948",
+        "NCT04381936",
+        "NCT04411628",
+        "NCT04426695",
+        "NCT04427501",
+        "NCT04518410",
+        "NCT04551898",
+        "NCT04584697",
+        "NCT04593641",
+        "NCT04627584",
+        "NCT04631666",
+        "NCT04631705",
+        "NCT04634409",
+        "NCT04644120",
+        "NCT04644185",
+        "NCT04649515",
+        "NCT04666441",
+        "NCT04674566",
+        "NCT04683328",
+        "NCT04709328",
+        "NCT04723394",
+        "NCT04734860",
+        "NCT04746183",
+        "NCT04748588",
+        "NCT04770467",
+        "NCT04771351",
+        "NCT04779879",
+        "NCT04780321",
+        "NCT04787211",
+        "NCT04790786",
+        "NCT04796402",
+        "NCT04805671",
+        "NCT04822701",
+        "NCT04840459",
+        "NCT04900428",
+        "NCT04913675",
+        "NCT04952805"
+      ],
+      "ongoing_other": [
+        "2020-001860-27",
+        "2020-003401-60",
+        "KCT0005896"
+      ],
+      "_unclassified": [
+        "NCT04427501"
+      ]
+    }
+  },
+  {
+    "title": "Tocilizumab for giant cell arteritis.",
+    "pmid": "34420204",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34420204/",
+    "rct_count": 2,
+    "research_query": "What is the effectiveness and safety of tocilizumab, alone or with corticosteroids, compared to therapy without tocilizumab for the treatment of giant cell arteritis?",
+    "nct_ids": [
+      "NCT01450137",
+      "NCT01791153"
+    ],
+    "doi": "10.1002/14651858.CD013484.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT01450137",
+        "NCT01791153"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT03892785"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Interventions for the prevention of persistent post-COVID-19 olfactory dysfunction.",
+    "pmid": "34291812",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34291812/",
+    "rct_count": 1,
+    "research_query": "What is the efficacy of interventions, such as intranasal corticosteroids and olfactory training, in preventing persistent post-COVID-19 olfactory dysfunction?",
+    "nct_ids": [
+      "NCT04484493"
+    ],
+    "doi": "10.1002/14651858.CD013877.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT04484493"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT04332107",
+        "NCT04342728",
+        "NCT04361474",
+        "NCT04374474",
+        "NCT04382547",
+        "NCT04406584",
+        "NCT04414124",
+        "NCT04422275",
+        "NCT04427332",
+        "NCT04458519",
+        "NCT04474483",
+        "NCT04513184",
+        "NCT04598763",
+        "NCT04622891",
+        "NCT04662060",
+        "NCT04662086"
+      ],
+      "excluded_other": [
+        "CTRI/2020/08/027477",
+        "IRCT20200522047542N1"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT04495816",
+        "NCT04528329",
+        "NCT04530409",
+        "NCT04569825",
+        "NCT04638673",
+        "NCT04657809",
+        "NCT04764981",
+        "NCT04797936",
+        "NCT04900415",
+        "NCT04951362",
+        "NCT04952389",
+        "NCT04959747",
+        "NCT04964414"
+      ],
+      "ongoing_other": [
+        "IRCT20210205050247N1",
+        "IRCT20210311050671N1",
+        "JPRN-UMIN000043537",
+        "UMIN000043537"
+      ]
+    }
+  },
+  {
+    "title": "Stem cell therapy for dilated cardiomyopathy.",
+    "pmid": "34286511",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34286511/",
+    "rct_count": 13,
+    "research_query": "What is the effectiveness and safety of stem cell therapy compared to no intervention, placebo, or G-CSF in adults with non-ischaemic dilated cardiomyopathy?",
+    "nct_ids": [
+      "NCT00333827",
+      "NCT00629018",
+      "NCT00743639",
+      "NCT00765518",
+      "NCT01020968",
+      "NCT01302171",
+      "NCT01350310",
+      "NCT01392625",
+      "NCT01957826",
+      "NCT02033278",
+      "NCT02248532",
+      "NCT02293603",
+      "NCT03797092"
+    ],
+    "doi": "10.1002/14651858.CD013433.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00333827",
+        "NCT00629018",
+        "NCT00743639",
+        "NCT00765518",
+        "NCT01020968",
+        "NCT01302171",
+        "NCT01350310",
+        "NCT01392625",
+        "NCT01957826",
+        "NCT02033278",
+        "NCT02248532",
+        "NCT02293603",
+        "NCT03797092"
+      ],
+      "included_other": [],
+      "included_count": 13,
+      "excluded_nct": [
+        "NCT02256501"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT00629018",
+        "NCT01350310",
+        "NCT01957826",
+        "NCT02033278",
+        "NCT02293603",
+        "NCT03797092"
+      ],
+      "ongoing_other": [],
+      "_unclassified": [
+        "NCT00629018",
+        "NCT01350310"
+      ]
+    }
+  },
+  {
+    "title": "Opioid treatment for opioid withdrawal in newborn infants.",
+    "pmid": "34231914",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34231914/",
+    "rct_count": 16,
+    "research_query": "What is the effectiveness and safety of using opioids for the treatment of neonatal abstinence syndrome (NAS) in newborn infants born to mothers with opioid dependence?",
+    "nct_ids": [
+      "NCT00271219",
+      "NCT00521248",
+      "NCT01452789",
+      "NCT01671410",
+      "NCT01708707",
+      "NCT01723722",
+      "NCT01734551",
+      "NCT01804075",
+      "NCT01958476",
+      "NCT02810782",
+      "NCT02851303",
+      "NCT03092011",
+      "NCT04104646",
+      "NCT04214834",
+      "NCT04298853",
+      "NCT04455802"
+    ],
+    "doi": "10.1002/14651858.CD002059.pub4",
+    "sections": {
+      "included_nct": [
+        "NCT00271219",
+        "NCT00521248",
+        "NCT01452789",
+        "NCT01671410",
+        "NCT01708707",
+        "NCT01723722",
+        "NCT01734551",
+        "NCT01804075",
+        "NCT01958476",
+        "NCT02810782",
+        "NCT02851303",
+        "NCT03092011",
+        "NCT04104646",
+        "NCT04214834",
+        "NCT04298853",
+        "NCT04455802"
+      ],
+      "included_other": [
+        "IRCT201406239568N8",
+        "IRCT20181231042183N1"
+      ],
+      "included_count": 18,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [
+        "NCT01671410",
+        "NCT01708707",
+        "NCT01723722"
+      ],
+      "awaiting_assessment_other": [
+        "IRCT20181231042183N1"
+      ],
+      "ongoing_nct": [
+        "NCT02851303",
+        "NCT03092011",
+        "NCT04104646",
+        "NCT04214834",
+        "NCT04298853",
+        "NCT04455802"
+      ],
+      "ongoing_other": [],
+      "_unclassified": [
+        "NCT01671410"
+      ]
+    }
+  },
+  {
+    "title": "Ivermectin treatment in humans for reducing malaria transmission.",
+    "pmid": "34184757",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34184757/",
+    "rct_count": 1,
+    "research_query": "What is the effect of community administration of ivermectin on malaria transmission in populations living in malaria-endemic areas?",
+    "nct_ids": [
+      "NCT02509481"
+    ],
+    "doi": "10.1002/14651858.CD013117.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT02509481"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT02511353"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03074435",
+        "NCT03576313",
+        "NCT03967054",
+        "NCT04844905"
+      ],
+      "ongoing_other": [],
+      "_unclassified": [
+        "NCT03074435",
+        "NCT03576313",
+        "NCT03967054",
+        "NCT04844905"
+      ]
+    }
+  },
+  {
+    "title": "Magnetic seizure therapy for treatment-resistant depression.",
+    "pmid": "34131914",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34131914/",
+    "rct_count": 3,
+    "research_query": "What are the effects of magnetic seizure therapy (MST) compared to electroconvulsive therapy (ECT), sham-MST, antidepressants, or other forms of electric or magnetic treatment for adults with treatment-resistant depression (TRD)?",
+    "nct_ids": [
+      "NCT00770783",
+      "NCT01318018",
+      "NCT03191058"
+    ],
+    "doi": "10.1002/14651858.CD013528.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00770783",
+        "NCT01318018",
+        "NCT03191058"
+      ],
+      "included_other": [],
+      "included_count": 3,
+      "excluded_nct": [
+        "NCT00488748",
+        "NCT00973934",
+        "NCT01748708",
+        "NCT01869374",
+        "NCT03641300",
+        "NCT04080778"
+      ],
+      "excluded_other": [
+        "ACTRN12611000054910",
+        "CHICTR-ONN-17010740"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03191058"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Oral antibiotics for chronic blepharitis.",
+    "pmid": "34107053",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34107053/",
+    "rct_count": 2,
+    "research_query": "What are the benefits and harms of oral antibiotics compared to placebo for the treatment of chronic blepharitis in adults?",
+    "nct_ids": [
+      "NCT00560703",
+      "NCT03953118"
+    ],
+    "doi": "10.1002/14651858.CD013697.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00560703",
+        "NCT03953118"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT00355459",
+        "NCT00732446",
+        "NCT01600625",
+        "NCT01783860"
+      ],
+      "excluded_other": [
+        "JPRN-UMIN000025159",
+        "TCTR20140524001",
+        "TCTR20180810001",
+        "UMIN000025159"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT00560703",
+        "NCT03953118"
+      ],
+      "ongoing_other": [],
+      "_unclassified": [
+        "NCT00560703"
+      ]
+    }
+  },
+  {
+    "title": "Vitamin D supplementation for the treatment of COVID-19: a living systematic review.",
+    "pmid": "34029377",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34029377/",
+    "rct_count": 3,
+    "research_query": "Is vitamin D supplementation effective and safe for the treatment of COVID-19 compared to placebo, standard of care, or active comparators?",
+    "nct_ids": [
+      "NCT04366908",
+      "NCT04449718",
+      "NCT04459247"
+    ],
+    "doi": "10.1002/14651858.CD015043",
+    "sections": {
+      "included_nct": [
+        "NCT04366908",
+        "NCT04449718",
+        "NCT04459247"
+      ],
+      "included_other": [],
+      "included_count": 3,
+      "excluded_nct": [
+        "NCT04351490",
+        "NCT04395768",
+        "NCT04399746",
+        "NCT04407286",
+        "NCT04476680",
+        "NCT04482686",
+        "NCT04483635",
+        "NCT04507867",
+        "NCT04535791",
+        "NCT04565392",
+        "NCT04579640",
+        "NCT04596657",
+        "NCT04780061"
+      ],
+      "excluded_other": [
+        "2020-001363-85",
+        "2020-001903-17",
+        "CTRI/2020/06/026191",
+        "IRCT20200319046819N1",
+        "IRCT20200705048013N1"
+      ],
+      "awaiting_assessment_nct": [
+        "NCT04733625"
+      ],
+      "awaiting_assessment_other": [
+        "IRCT20110726007117N11",
+        "IRCT20200324046850N1"
+      ],
+      "ongoing_nct": [
+        "NCT04334005",
+        "NCT04344041",
+        "NCT04363840",
+        "NCT04385940",
+        "NCT04386850",
+        "NCT04411446",
+        "NCT04482673",
+        "NCT04489628",
+        "NCT04502667",
+        "NCT04525820",
+        "NCT04536298",
+        "NCT04552951",
+        "NCT04621058",
+        "NCT04636086",
+        "NCT04641195",
+        "NCT04733625"
+      ],
+      "ongoing_other": [
+        "2020-001602-34",
+        "2020-001717-20",
+        "2020-001960-28",
+        "2020-002274-28",
+        "2020-002312-43",
+        "CTRI/2020/06/026189",
+        "CTRI/2020/12/030083",
+        "IRCT20110726007117N11",
+        "IRCT20200324046850N1"
+      ]
+    }
+  },
+  {
+    "title": "Oral dextrose gel to prevent hypoglycaemia in at-risk neonates.",
+    "pmid": "33998668",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33998668/",
+    "rct_count": 2,
+    "research_query": "What is the effectiveness of oral dextrose gel compared to placebo or other therapies in preventing neonatal hypoglycaemia in at-risk infants?",
+    "nct_ids": [
+      "NCT04185766",
+      "NCT04353713"
+    ],
+    "doi": "10.1002/14651858.CD012152.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT04185766",
+        "NCT04353713"
+      ],
+      "included_other": [
+        "ACTRN12613000322730",
+        "ACTRN12614001263684",
+        "CTRI/2017/11/010645",
+        "TCTR20190805003"
+      ],
+      "included_count": 6,
+      "excluded_nct": [
+        "NCT02523222"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [
+        "NCT04185766"
+      ],
+      "awaiting_assessment_other": [
+        "CTRI/2017/11/010645",
+        "TCTR20190805003"
+      ],
+      "ongoing_nct": [
+        "NCT04353713"
+      ],
+      "ongoing_other": [],
+      "_unclassified": [
+        "CTRI/2017/11/010645",
+        "NCT04185766",
+        "NCT04353713",
+        "TCTR20190805003"
+      ]
+    }
+  },
+  {
+    "title": "Selective oestrogen receptor modulators (SERMs) for endometriosis.",
+    "pmid": "33973648",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33973648/",
+    "rct_count": 1,
+    "research_query": "What is the effectiveness and safety of selective oestrogen receptor modulators (SERMs) compared to placebo, no treatment, other medical treatments, or surgery in the management of endometriosis?",
+    "nct_ids": [
+      "NCT00001848"
+    ],
+    "doi": "10.1002/14651858.CD011169.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00001848"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Corticosteroids for periorbital and orbital cellulitis.",
+    "pmid": "33908631",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33908631/",
+    "rct_count": 1,
+    "research_query": "What is the effectiveness and safety of adjunctive corticosteroids compared to antibiotics alone for the treatment of periorbital and orbital cellulitis in children and adults?",
+    "nct_ids": [
+      "NCT02087527"
+    ],
+    "doi": "10.1002/14651858.CD013535.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT02087527"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT01671423",
+        "NCT01721694"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [
+        "NCT02087527"
+      ],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Surgery for idiopathic epiretinal membrane.",
+    "pmid": "33760235",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33760235/",
+    "rct_count": 1,
+    "research_query": "What are the effects of surgical removal of idiopathic epiretinal membrane compared to no intervention, placebo, or sham treatment, particularly in terms of visual acuity, quality of life, and potential harms?",
+    "nct_ids": [
+      "NCT00902629"
+    ],
+    "doi": "10.1002/14651858.CD013297.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00902629"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Interleukin-6 blocking agents for treating COVID-19: a living systematic review.",
+    "pmid": "33734435",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33734435/",
+    "rct_count": 10,
+    "research_query": "What is the efficacy and safety of interleukin-6 blocking agents, such as tocilizumab and sarilumab, compared to standard care or placebo in the treatment of COVID-19 across varying disease severities?",
+    "nct_ids": [
+      "NCT02735707",
+      "NCT04320615",
+      "NCT04327388",
+      "NCT04331808",
+      "NCT04346355",
+      "NCT04356937",
+      "NCT04372186",
+      "NCT04381936",
+      "NCT04403685",
+      "NCT04479358"
+    ],
+    "doi": "10.1002/14651858.CD013881",
+    "sections": {
+      "included_nct": [
+        "NCT02735707",
+        "NCT04320615",
+        "NCT04327388",
+        "NCT04331808",
+        "NCT04346355",
+        "NCT04356937",
+        "NCT04372186",
+        "NCT04381936",
+        "NCT04403685",
+        "NCT04479358"
+      ],
+      "included_other": [
+        "CHICTR2000029765",
+        "ISRCTN50189673"
+      ],
+      "included_count": 12,
+      "excluded_nct": [
+        "NCT04315298",
+        "NCT04330638",
+        "NCT04343989",
+        "NCT04348500",
+        "NCT04357808",
+        "NCT04357860",
+        "NCT04359901",
+        "NCT04363502",
+        "NCT04377750",
+        "NCT04380519",
+        "NCT04381052",
+        "NCT04397562",
+        "NCT04412291",
+        "NCT04412772",
+        "NCT04452474",
+        "NCT04479358",
+        "NCT04494724",
+        "NCT04577534",
+        "NCT04659772",
+        "NCT04690920"
+      ],
+      "excluded_other": [
+        "2020-001162-12",
+        "2020-001290-74",
+        "2020-001390-76",
+        "2020-001767-86",
+        "ACTRN12620000580976",
+        "CTRI/2020/05/025369",
+        "CTRI/2020/12/029793",
+        "IRCT20081027001411N4",
+        "IRCT20200510047383N1",
+        "IRCT20200525047570N1"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Blood transfusion for preventing primary and secondary stroke in people with sickle cell disease.",
+    "pmid": "32716555",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32716555/",
+    "rct_count": 5,
+    "research_query": "What are the risks and benefits of chronic blood transfusion regimens compared to alternative or standard treatments for primary and secondary stroke prevention in people with sickle cell disease?",
+    "nct_ids": [
+      "NCT00000592",
+      "NCT00006182",
+      "NCT00072761",
+      "NCT00122980",
+      "NCT01425307"
+    ],
+    "doi": "10.1002/14651858.CD003146.pub4",
+    "sections": {
+      "included_nct": [
+        "NCT00000592",
+        "NCT00006182",
+        "NCT00072761",
+        "NCT00122980",
+        "NCT01425307"
+      ],
+      "included_other": [
+        "ISRCTN52713285"
+      ],
+      "included_count": 6,
+      "excluded_nct": [
+        "NCT01340404",
+        "NCT01531387"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "GLP-1 receptor agonists for Parkinson's disease.",
+    "pmid": "32700772",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32700772/",
+    "rct_count": 2,
+    "research_query": "What is the effectiveness and safety of GLP-1 receptor agonists compared to conventional treatment, placebo, or no treatment for managing Parkinson's disease?",
+    "nct_ids": [
+      "NCT01174810",
+      "NCT01971242"
+    ],
+    "doi": "10.1002/14651858.CD012990.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT01174810",
+        "NCT01971242"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02953665",
+        "NCT03439943",
+        "NCT03659682",
+        "NCT04154072",
+        "NCT04232969",
+        "NCT04269642",
+        "NCT04305002"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Standard versus biofilm antimicrobial susceptibility testing to guide antibiotic therapy in cystic fibrosis.",
+    "pmid": "32520436",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32520436/",
+    "rct_count": 2,
+    "research_query": "Does biofilm antimicrobial susceptibility testing improve microbiological and clinical outcomes compared to conventional antimicrobial susceptibility testing in the treatment of Pseudomonas aeruginosa pulmonary infections in people with cystic fibrosis?",
+    "nct_ids": [
+      "NCT00153634",
+      "NCT00786513"
+    ],
+    "doi": "10.1002/14651858.CD009528.pub5",
+    "sections": {
+      "included_nct": [
+        "NCT00153634",
+        "NCT00786513"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Digital technology for early identification of exacerbations in people with cystic fibrosis.",
+    "pmid": "37057835",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/37057835/",
+    "rct_count": 3,
+    "research_query": "Can digital technologies effectively predict pulmonary exacerbations in people with cystic fibrosis to enable earlier intervention and improve health outcomes without increasing treatment burden?",
+    "nct_ids": [
+      "NCT00850551",
+      "NCT01104402",
+      "NCT02122289"
+    ],
+    "doi": "10.1002/14651858.CD014606.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00850551",
+        "NCT01104402",
+        "NCT02122289"
+      ],
+      "included_other": [],
+      "included_count": 3,
+      "excluded_nct": [
+        "NCT01253733",
+        "NCT04453358",
+        "NCT04574050"
+      ],
+      "excluded_other": [
+        "ACTRN12611000802909",
+        "ISRCTN13076797",
+        "ISRCTN55504164"
+      ],
+      "awaiting_assessment_nct": [
+        "NCT00850551",
+        "NCT02122289"
+      ],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03637504"
+      ],
+      "ongoing_other": [
+        "ACTRN12617001035314",
+        "DRKS00024642"
+      ]
+    }
+  },
+  {
+    "title": "Hydroxyurea (hydroxycarbamide) for sickle cell disease.",
+    "pmid": "36047926",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36047926/",
+    "rct_count": 9,
+    "research_query": "What is the effectiveness and safety of hydroxyurea in reducing acute complications, preventing organ dysfunction, and improving quality of life in individuals with sickle cell disease (HbSS or HbSβºthal genotypes) compared to placebo or standard therapy?",
+    "nct_ids": [
+      "NCT00000586",
+      "NCT00006400",
+      "NCT00122980",
+      "NCT00532883",
+      "NCT01389024",
+      "NCT01425307",
+      "NCT01531387",
+      "NCT01976416",
+      "NCT03806452"
+    ],
+    "doi": "10.1002/14651858.CD002202.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00000586",
+        "NCT00006400",
+        "NCT00122980",
+        "NCT00532883",
+        "NCT01389024",
+        "NCT01425307",
+        "NCT01531387",
+        "NCT01976416",
+        "NCT03806452"
+      ],
+      "included_other": [],
+      "included_count": 9,
+      "excluded_nct": [
+        "NCT00000602",
+        "NCT00001197",
+        "NCT00004492",
+        "NCT00672789",
+        "NCT00890396",
+        "NCT01848925",
+        "NCT01895361",
+        "NCT01960413",
+        "NCT02090296",
+        "NCT02114203",
+        "NCT02149537",
+        "NCT02560935",
+        "NCT02675790",
+        "NCT03062501",
+        "NCT03128515",
+        "NCT03634488",
+        "NCT03789591",
+        "NCT03825341",
+        "NCT04675645",
+        "NCT05142254"
+      ],
+      "excluded_other": [
+        "CTRI/2022/01/039317",
+        "PACTR202105561969346"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT01389024",
+        "NCT03806452"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Antibiotic therapy versus no antibiotic therapy for children aged 2 to 59 months with WHO-defined non-severe pneumonia and wheeze.",
+    "pmid": "33469915",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33469915/",
+    "rct_count": 3,
+    "research_query": "What is the efficacy of antibiotic therapy compared to no antibiotic therapy in children aged 2 to 59 months with WHO-defined non-severe pneumonia and wheeze?",
+    "nct_ids": [
+      "NCT00407394",
+      "NCT00851487",
+      "NCT02760420"
+    ],
+    "doi": "10.1002/14651858.CD009576.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00407394",
+        "NCT00851487",
+        "NCT02760420"
+      ],
+      "included_other": [],
+      "included_count": 3,
+      "excluded_nct": [
+        "NCT00130013",
+        "NCT01200706",
+        "NCT01375426",
+        "NCT03031210",
+        "NCT03208361"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [
+        "NCT02372461"
+      ],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Interventions for frostbite injuries.",
+    "pmid": "33341943",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33341943/",
+    "rct_count": 1,
+    "research_query": "What are the benefits and harms of different medical interventions, such as pharmacological therapy, topical treatments, or rewarming techniques, for managing frostbite injuries?",
+    "nct_ids": [
+      "NCT01270477"
+    ],
+    "doi": "10.1002/14651858.CD012980.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT01270477"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT01270477"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Visual cycle modulators versus placebo or observation for the prevention and treatment of geographic atrophy due to age-related macular degeneration.",
+    "pmid": "33331670",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33331670/",
+    "rct_count": 3,
+    "research_query": "What is the efficacy and safety of visual cycle modulators, such as emixustat and fenretinide, compared to placebo or observation, for the prevention and treatment of geographic atrophy due to age-related macular degeneration?",
+    "nct_ids": [
+      "NCT00429936",
+      "NCT01002950",
+      "NCT01802866"
+    ],
+    "doi": "10.1002/14651858.CD013154.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00429936",
+        "NCT01002950",
+        "NCT01802866"
+      ],
+      "included_other": [],
+      "included_count": 3,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Interventions to reduce body temperature to 35 ⁰C to 37 ⁰C in adults and children with traumatic brain injury.",
+    "pmid": "33126293",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33126293/",
+    "rct_count": 1,
+    "research_query": "What are the effects of pharmacological or physical interventions aimed at reducing body temperature to 35 °C to 37.5 °C in adults and children admitted to hospital after traumatic brain injury?",
+    "nct_ids": [
+      "NCT01231139"
+    ],
+    "doi": "10.1002/14651858.CD006811.pub4",
+    "sections": {
+      "included_nct": [
+        "NCT01231139"
+      ],
+      "included_other": [
+        "ACTRN12609000444280"
+      ],
+      "included_count": 2,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02996266",
+        "NCT03496545",
+        "NCT03648021"
+      ],
+      "ongoing_other": [
+        "ACTRN12615001119583"
+      ]
+    }
+  },
+  {
+    "title": "Targeted therapy for metastatic renal cell carcinoma.",
+    "pmid": "33058158",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33058158/",
+    "rct_count": 18,
+    "research_query": "What are the effects of TKI-based targeted therapies compared to other treatments for clear cell metastatic renal cell carcinoma in patients naïve to systemic therapy?",
+    "nct_ids": [
+      "NCT00065468",
+      "NCT00072046",
+      "NCT00083889",
+      "NCT00334282",
+      "NCT00631371",
+      "NCT00719264",
+      "NCT00720941",
+      "NCT00732914",
+      "NCT00738530",
+      "NCT00903175",
+      "NCT01030783",
+      "NCT01265901",
+      "NCT01613846",
+      "NCT01984242",
+      "NCT02231749",
+      "NCT02420821",
+      "NCT02684006",
+      "NCT02853331"
+    ],
+    "doi": "10.1002/14651858.CD012796.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00065468",
+        "NCT00072046",
+        "NCT00083889",
+        "NCT00334282",
+        "NCT00631371",
+        "NCT00719264",
+        "NCT00720941",
+        "NCT00732914",
+        "NCT00738530",
+        "NCT00903175",
+        "NCT01030783",
+        "NCT01265901",
+        "NCT01613846",
+        "NCT01984242",
+        "NCT02231749",
+        "NCT02420821",
+        "NCT02684006",
+        "NCT02853331"
+      ],
+      "included_other": [],
+      "included_count": 18,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02811861",
+        "NCT02959554",
+        "NCT03141177",
+        "NCT03937219"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Behavioural activation therapy for depression in adults with non-communicable diseases.",
+    "pmid": "32841367",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32841367/",
+    "rct_count": 2,
+    "research_query": "What are the effects of behavioural activation therapy compared to various control groups (e.g., no treatment, waiting list, other psychological therapy, pharmacological treatment, or treatment as usual) for treating depression in adults with non-communicable diseases such as cardiovascular disease, diabetes, cancer, and chronic respiratory conditions?",
+    "nct_ids": [
+      "NCT00194454",
+      "NCT01133106"
+    ],
+    "doi": "10.1002/14651858.CD013461.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT00194454",
+        "NCT01133106"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT01506492",
+        "NCT01572389",
+        "NCT02051660",
+        "NCT02121340",
+        "NCT02353546",
+        "NCT02382562",
+        "NCT02413840",
+        "NCT02846662",
+        "NCT03026426",
+        "NCT03233451",
+        "NCT03431493"
+      ],
+      "excluded_other": [
+        "DRKS00005873",
+        "ISRCTN11290592",
+        "ISRCTN12715175",
+        "ISRCTN16242820",
+        "ISRCTN16601130",
+        "ISRCTN34701576",
+        "ISRCTN63855912"
+      ],
+      "awaiting_assessment_nct": [
+        "NCT02185482"
+      ],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03688100"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Inhaled mannitol for cystic fibrosis.",
+    "pmid": "32358807",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32358807/",
+    "rct_count": 6,
+    "research_query": "Does inhaled dry powder mannitol improve lung function and quality of life in individuals with cystic fibrosis compared to placebo, active inhaled comparators, or no treatment, and what are the associated adverse events?",
+    "nct_ids": [
+      "NCT00117208",
+      "NCT00446680",
+      "NCT00455130",
+      "NCT00630812",
+      "NCT01883531",
+      "NCT02134353"
+    ],
+    "doi": "10.1002/14651858.CD008649.pub4",
+    "sections": {
+      "included_nct": [
+        "NCT00117208",
+        "NCT00446680",
+        "NCT00455130",
+        "NCT00630812",
+        "NCT01883531",
+        "NCT02134353"
+      ],
+      "included_other": [
+        "2004-001888-21",
+        "2006-004078-28",
+        "2007-001412-23",
+        "2008-002740-42",
+        "2012-002699-14",
+        "2013-005357-79",
+        "ACTRN12612001167853",
+        "NTR4453"
+      ],
+      "included_count": 14,
+      "excluded_nct": [
+        "NCT00251056"
+      ],
+      "excluded_other": [
+        "IRCT20180307038994N1"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02134353"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Normal saline (0.9% sodium chloride) versus heparin intermittent flushing for the prevention of occlusion in long-term central venous catheters in infants and children.",
+    "pmid": "32352563",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32352563/",
+    "rct_count": 4,
+    "research_query": "What are the clinical effects of intermittent flushing with normal saline compared to heparin for preventing occlusion in long-term central venous catheters in infants and children?",
+    "nct_ids": [
+      "NCT00001518",
+      "NCT01343680",
+      "NCT02354118",
+      "NCT02923830"
+    ],
+    "doi": "10.1002/14651858.CD010996.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00001518",
+        "NCT01343680",
+        "NCT02354118",
+        "NCT02923830"
+      ],
+      "included_other": [],
+      "included_count": 4,
+      "excluded_nct": [
+        "NCT00001518",
+        "NCT01343680",
+        "NCT02354118",
+        "NCT02923830"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Transarterial (chemo)embolisation versus no intervention or placebo for liver metastases.",
+    "pmid": "32163181",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32163181/",
+    "rct_count": 1,
+    "research_query": "What are the benefits and harms of transarterial embolisation (TAE) or transarterial chemoembolisation (TACE) compared with no intervention or placebo in people with liver metastases?",
+    "nct_ids": [
+      "NCT03783559"
+    ],
+    "doi": "10.1002/14651858.CD009498.pub4",
+    "sections": {
+      "included_nct": [
+        "NCT03783559"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03783559"
+      ],
+      "ongoing_other": [],
+      "_unclassified": [
+        "NCT03783559"
+      ]
+    }
+  },
+  {
+    "title": "Cognitive training interventions for dementia and mild cognitive impairment in Parkinson's disease.",
+    "pmid": "32101639",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32101639/",
+    "rct_count": 7,
+    "research_query": "Does cognitive training targeting single or multiple domains improve cognitive function in individuals with Parkinson's disease dementia (PDD) or Parkinson's disease with mild cognitive impairment (PD-MCI) compared to control conditions?",
+    "nct_ids": [
+      "NCT01646333",
+      "NCT01647698",
+      "NCT02225314",
+      "NCT02525367",
+      "NCT02920632",
+      "NCT03285347",
+      "NCT03582670"
+    ],
+    "doi": "10.1002/14651858.CD011961.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT01646333",
+        "NCT01647698",
+        "NCT02225314",
+        "NCT02525367",
+        "NCT02920632",
+        "NCT03285347",
+        "NCT03582670"
+      ],
+      "included_other": [
+        "ACTRN12618000999235"
+      ],
+      "included_count": 8,
+      "excluded_nct": [
+        "NCT01156714",
+        "NCT01469741",
+        "NCT02826785",
+        "NCT02922530",
+        "NCT03335150",
+        "NCT03680170",
+        "NCT03836963",
+        "NCT04048122"
+      ],
+      "excluded_other": [
+        "ACTRN12617000634370"
+      ],
+      "awaiting_assessment_nct": [
+        "NCT01646333",
+        "NCT01647698",
+        "NCT02920632"
+      ],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT02225314",
+        "NCT02525367",
+        "NCT03285347",
+        "NCT03582670"
+      ],
+      "ongoing_other": [
+        "ACTRN12618000999235"
+      ]
+    }
+  },
+  {
+    "title": "Different unfractionated heparin doses for preventing arterial thrombosis in children undergoing cardiac catheterization.",
+    "pmid": "32065663",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/32065663/",
+    "rct_count": 2,
+    "research_query": "What are the effects of low-dose (< 100 units/kg) versus high-dose (≥ 100 units/kg) unfractionated heparin administered as an intravenous bolus at the initiation of cardiac catheterization on the prevention of post-procedural arterial thrombosis in children aged 0 to 18 years?",
+    "nct_ids": [
+      "NCT02767232",
+      "NCT03894904"
+    ],
+    "doi": "10.1002/14651858.CD010196.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT02767232",
+        "NCT03894904"
+      ],
+      "included_other": [],
+      "included_count": 2,
+      "excluded_nct": [
+        "NCT02767232",
+        "NCT03894904"
+      ],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Sound reduction management in the neonatal intensive care unit for preterm or very low birth weight infants.",
+    "pmid": "31986231",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31986231/",
+    "rct_count": 1,
+    "research_query": "What are the effects of sound reduction interventions, such as silicone earplugs, on growth, neurodevelopmental outcomes, short-term medical outcomes, sleep patterns, staff performance, and parental satisfaction in preterm or very low birth weight infants in neonatal intensive care units?",
+    "nct_ids": [
+      "NCT00565357"
+    ],
+    "doi": "10.1002/14651858.CD010333.pub3",
+    "sections": {
+      "included_nct": [
+        "NCT00565357"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [],
+      "excluded_other": [],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Interventions for chronic pruritus of unknown origin.",
+    "pmid": "31981369",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31981369/",
+    "rct_count": 1,
+    "research_query": "What are the effects of interventions, including non-pharmacological, topical, and systemic pharmacological treatments, for managing chronic pruritus of unknown origin (CPUO) in adults and children?",
+    "nct_ids": [
+      "NCT01951274"
+    ],
+    "doi": "10.1002/14651858.CD013128.pub2",
+    "sections": {
+      "included_nct": [
+        "NCT01951274"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT02565134",
+        "NCT03317301"
+      ],
+      "excluded_other": [
+        "IRCT2014112613612N3"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [
+        "NCT03841331"
+      ],
+      "ongoing_other": []
+    }
+  },
+  {
+    "title": "Blood transfusions for treating acute chest syndrome in people with sickle cell disease.",
+    "pmid": "31942751",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31942751/",
+    "rct_count": 1,
+    "research_query": "What is the effectiveness of blood transfusions, including simple and exchange transfusions, compared to standard care in treating acute chest syndrome in individuals with sickle cell disease?",
+    "nct_ids": [
+      "NCT00951808"
+    ],
+    "doi": "10.1002/14651858.CD007843.pub4",
+    "sections": {
+      "included_nct": [
+        "NCT00951808"
+      ],
+      "included_other": [],
+      "included_count": 1,
+      "excluded_nct": [
+        "NCT00000592",
+        "NCT00072761"
+      ],
+      "excluded_other": [
+        "ISRCTN52713285"
+      ],
+      "awaiting_assessment_nct": [],
+      "awaiting_assessment_other": [],
+      "ongoing_nct": [],
+      "ongoing_other": []
+    }
+  }
+]

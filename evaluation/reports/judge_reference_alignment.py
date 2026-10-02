@@ -19,8 +19,8 @@ from evaluation_common import append_jsonl, request_json_completion, utc_now
 SCRIPT_DIR = Path(__file__).resolve().parent
 REPOSITORY_ROOT = SCRIPT_DIR.parents[1]
 RUN_ROOT = REPOSITORY_ROOT / "outputs"
-DEV_PMIDS_PATH = REPOSITORY_ROOT / "data" / "benchmark.json"
-DEFAULT_KEYPOINTS = REPOSITORY_ROOT / "data" / "reference_keypoints.jsonl"
+DEV_PMIDS_PATH = REPOSITORY_ROOT / "benchmark" / "benchmark.json"
+DEFAULT_KEYPOINTS = REPOSITORY_ROOT / "benchmark" / "reference_keypoints.jsonl"
 EVALUATION_OUTPUT = RUN_ROOT / "evaluation" / "report_alignment"
 DEFAULT_OUTPUT = EVALUATION_OUTPUT / "judge_alignment.jsonl"
 DEFAULT_ERRORS = EVALUATION_OUTPUT / "judge_alignment_errors.jsonl"

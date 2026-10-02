@@ -11,6 +11,10 @@ import time
 from pathlib import Path
 from typing import Any
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+REPOSITORY_ROOT = SCRIPT_DIR.parents[1]
+sys.path.insert(0, str(REPOSITORY_ROOT / "evaluation" / "reports"))
+
 from evaluation_common import (
     append_jsonl,
     completed_pmids,
@@ -20,10 +24,8 @@ from evaluation_common import (
 )
 
 
-SCRIPT_DIR = Path(__file__).resolve().parent
-REPOSITORY_ROOT = SCRIPT_DIR.parents[1]
-DEFAULT_GROUND_TRUTH = REPOSITORY_ROOT / "data" / "benchmark.json"
-DEFAULT_DEV_PMIDS = REPOSITORY_ROOT / "data" / "benchmark.json"
+DEFAULT_GROUND_TRUTH = REPOSITORY_ROOT / "benchmark" / "benchmark.json"
+DEFAULT_DEV_PMIDS = REPOSITORY_ROOT / "benchmark" / "benchmark.json"
 REFERENCE_OUTPUT = REPOSITORY_ROOT / "outputs" / "evaluation" / "references"
 DEFAULT_SOURCES = REFERENCE_OUTPUT / "cochrane_sections.jsonl"
 DEFAULT_OUTPUT = REFERENCE_OUTPUT / "reference_keypoints.jsonl"
@@ -186,7 +188,7 @@ def load_ground_truth(path: Path) -> dict[str, dict[str, Any]]:
 def load_jsonl_by_pmid(path: Path) -> dict[str, dict[str, Any]]:
     if not path.exists():
         raise FileNotFoundError(
-            f"Source file not found: {path}. Run fetch_cochrane_sections.py first."
+            f"Source file not found: {path}. Run fetch_reference_sections.py first."
         )
 
     records: dict[str, dict[str, Any]] = {}
@@ -206,9 +208,7 @@ def load_jsonl_by_pmid(path: Path) -> dict[str, dict[str, Any]]:
 
 
 def source_for_record(
-    ground_truth: dict[str, Any],
     fetched_source: dict[str, Any] | None,
-    allow_synthetic_fallback: bool,
 ) -> dict[str, Any] | None:
     if fetched_source:
         selected_text = str(fetched_source.get("selected_text", "")).strip()
@@ -222,17 +222,6 @@ def source_for_record(
                 "source_sections": fetched_source.get("selected_sections", []),
             }
 
-    if allow_synthetic_fallback:
-        reference_report = str(ground_truth.get("ground_truth_report", "")).strip()
-        if reference_report:
-            return {
-                "source_name": "gpt4_reference_report",
-                "source_type": "synthetic_reference_fallback",
-                "source_text": reference_report,
-                "source_url": "",
-                "source_fetched_at": "",
-                "source_sections": [],
-            }
     return None
 
 
@@ -250,7 +239,6 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--errors", type=Path, default=DEFAULT_ERRORS)
     parser.add_argument("--limit", type=int, help="Process at most this many PMIDs.")
     parser.add_argument("--dry-run", action="store_true")
-    parser.add_argument("--allow-synthetic-fallback", action="store_true")
     parser.add_argument("--max-tokens", type=int, default=1200)
     parser.add_argument("--max-attempts", type=int, default=4)
     parser.add_argument("--sleep-seconds", type=float, default=0.25)
@@ -280,9 +268,7 @@ def main() -> int:
         if not str(ground_truth.get("research_query", "")).strip():
             raise ValueError(f"PMID {pmid} has no research_query.")
         source = source_for_record(
-            ground_truth,
             source_by_pmid.get(pmid),
-            args.allow_synthetic_fallback,
         )
         if source is None:
             missing_pmids.append(pmid)
@@ -300,8 +286,7 @@ def main() -> int:
     if not work_items:
         if missing_pmids:
             print(
-                "No processable sources. Run fetch_cochrane_sections.py or use "
-                "--allow-synthetic-fallback.",
+                "No processable sources. Run fetch_reference_sections.py.",
                 file=sys.stderr,
             )
             return 2
