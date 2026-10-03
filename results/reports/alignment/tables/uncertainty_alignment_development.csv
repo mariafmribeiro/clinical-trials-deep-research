@@ -1,0 +1,9 @@
+subject_model,uncertainty_alignment,Count,Percentage
+Qwen3-8B,matched,3,5.882352941176471
+Qwen3-8B,stronger_than_reference,42,82.3529411764706
+Qwen3-8B,weaker_than_reference,1,1.9607843137254901
+Qwen3-8B,not_assessable,5,9.803921568627452
+Fleming-R1-7B,matched,3,5.882352941176471
+Fleming-R1-7B,stronger_than_reference,47,92.15686274509804
+Fleming-R1-7B,weaker_than_reference,0,0.0
+Fleming-R1-7B,not_assessable,1,1.9607843137254901

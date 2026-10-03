@@ -1,0 +1,3 @@
+left_run,right_run,n_paired_reviews,left_mean,right_mean,mean_difference_right_minus_left,ci_95_low,ci_95_high,right_improved,tied,right_worsened,preliminary_partial_sample,metric
+A3,A4,51,0.49715009935598165,0.7855700399818046,0.288419940625823,0.1932400524312289,0.3903284508247744,26,25,0,False,Evidence representation
+A3,A4,51,0.7198251095309919,0.8652544351073763,0.1454293255763844,0.07218458216619983,0.22987346327419855,16,35,0,False,Grounded combined context

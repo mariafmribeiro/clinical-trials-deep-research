@@ -1,0 +1,9 @@
+subject_model,status,Count,Percentage
+Qwen3-8B,covered,16,6.530612244897959
+Qwen3-8B,partially_covered,56,22.857142857142858
+Qwen3-8B,missing,104,42.44897959183673
+Qwen3-8B,contradicted,69,28.163265306122447
+Fleming-R1-7B,covered,32,13.061224489795919
+Fleming-R1-7B,partially_covered,57,23.26530612244898
+Fleming-R1-7B,missing,62,25.306122448979593
+Fleming-R1-7B,contradicted,94,38.36734693877551

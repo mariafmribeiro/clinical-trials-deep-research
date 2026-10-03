@@ -1,0 +1,9 @@
+subject_model,conclusion_alignment,Count,Percentage
+Qwen3-8B,aligned,3,5.882352941176471
+Qwen3-8B,partially_aligned,20,39.21568627450981
+Qwen3-8B,not_addressed,2,3.9215686274509802
+Qwen3-8B,contradicted,26,50.98039215686274
+Fleming-R1-7B,aligned,0,0.0
+Fleming-R1-7B,partially_aligned,17,33.333333333333336
+Fleming-R1-7B,not_addressed,1,1.9607843137254901
+Fleming-R1-7B,contradicted,33,64.70588235294117

@@ -1,0 +1,9 @@
+field_pattern,gt_review_trial_pairs,recovered_by
+HRS,137,All three configurations
+HR,16,Hybrid and retrieval text
+None,11,Not recovered by any configuration
+S,5,Structured fields only
+H,4,Hybrid only
+RS,2,Retrieval text and structured fields
+HS,1,Hybrid and structured fields
+R,1,Retrieval text only

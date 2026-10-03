@@ -1,0 +1,7 @@
+subject_model,question_relevance,Count,Percentage
+Qwen3-8B,direct,47,92.15686274509804
+Qwen3-8B,partial,4,7.8431372549019605
+Qwen3-8B,off_topic,0,0.0
+Fleming-R1-7B,direct,50,98.03921568627452
+Fleming-R1-7B,partial,0,0.0
+Fleming-R1-7B,off_topic,1,1.9607843137254901
